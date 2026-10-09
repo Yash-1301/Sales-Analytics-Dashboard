@@ -41,7 +41,6 @@ Atliq-Sales-Analytics/
 2. Open `tableau/Atliq dashboard.twbx` in Tableau Desktop to explore the dashboard.
 3. Use the dashboard preview above to see the visualizations.
 
-**Note:** The Tableau workbook uses a MySQL database connection. You may need to configure the data source on your machine before the workbook will work.
 
 ## Attribution
 
